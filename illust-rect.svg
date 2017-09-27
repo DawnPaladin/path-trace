@@ -1,8 +1,0 @@
-<?xml-stylesheet type="text/css" href="style.css" ?>
-<svg xmlns="http://www.w3.org/2000/svg" width="269" height="153" viewBox="0 0 269 153">
-  <title>illust-rect</title>
-  <g>
-    <rect x="2.5" y="2.5" width="264" height="148" style="fill: #fff"/>
-    <path d="M617,228V371H358V228H617m5-5H353V376H622V223Z" transform="translate(-353 -223)"/>
-  </g>
-</svg>
