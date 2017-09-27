@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="269" height="153" viewBox="0 0 269 153">
+  <title>illust-path</title>
+  <g>
+    <rect width="269" height="153" style="fill: #fff"/>
+    <path d="M515,249V392H256V249H515m5-5H251V397H520V244Z" transform="translate(-251 -244)"/>
+  </g>
+</svg>
